@@ -9,4 +9,5 @@ Sıralama Algoritmaları
     büyükse yer değiştirme yapılır. Bunun sebebi algoritmanın prensibi gereğidir. Zira bu algoritmadaki temel prensip en büyük sayının en 
     sona atılmasıdır. Her iterasyonda en büyük sayısı sona gelir, iterasyonlar tamamlandığında algoritma tamamlanmış olur.
   
+  1000 tane sayısı 0.050556429 saniye de sıraladı.
     
