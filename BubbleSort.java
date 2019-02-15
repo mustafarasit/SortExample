@@ -40,7 +40,7 @@ public class BubbleSort {
         Random rnd = null;
         for (int i = 0; i < count; i++) {
             rnd = new Random();
-            list[i] = rnd.nextInt(20);
+            list[i] = rnd.nextInt(100);
         }
         return list;
     }
